@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 50px;
+}
+h2{
+    font-size: 18px;
+}
+.second-session,.first-session,.third-session{
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 20px;
+    border-top: 1px solid #000;
+    line-height: 1.5;
+    word-spacing: 3px;
+}
+.first-session p{
+
+color: green;
+}
+.second-session p{
+    color: red;
+}
+.third-session{
+    color: blue;
+}
